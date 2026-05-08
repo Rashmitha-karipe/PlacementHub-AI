@@ -1,0 +1,11 @@
+TCS interview process includes:
+1. Aptitude test
+2. Technical interview
+3. Managerial interview
+4. HR interview
+
+Common TCS interview questions:
+- Difference between Java and Python
+- Explain DBMS normalization
+- What is polymorphism
+- Tell me about your project

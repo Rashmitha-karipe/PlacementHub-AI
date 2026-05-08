@@ -1,0 +1,17 @@
+Amazon interview process includes:
+1. Online assessment
+2. Technical coding round
+3. System design round
+4. HR interview
+
+Amazon leadership principles are:
+- Customer Obsession
+- Ownership
+- Invent and Simplify
+- Learn and Be Curious
+
+Common Amazon interview questions:
+- Explain OOP concepts
+- Reverse a linked list
+- Two sum problem
+- Tell me about yourself

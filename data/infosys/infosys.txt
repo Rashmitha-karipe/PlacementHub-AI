@@ -1,0 +1,10 @@
+Infosys interview process includes:
+1. Online test
+2. Technical interview
+3. HR round
+
+Common Infosys interview questions:
+- Explain inheritance
+- What is SQL join
+- Difference between stack and queue
+- Explain your strengths and weaknesses
